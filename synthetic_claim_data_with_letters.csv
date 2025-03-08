@@ -1,0 +1,3501 @@
+Age,Complaint,Test1,Test2,Test3,Recommendation,ClaimDate,ClaimStatus,ClaimOutcome,OutputLetter
+50,Fever,5.86,5.49,0.99,Blood Test,2023-12-03,Denied,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+19,Abdominal Pain,4.61,9.46,8.18,Ultrasound,2023-11-03,Denied,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+43,Chest Pain,2.14,6.4,8.29,ECG,2023-04-13,Denied,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+18,Back Pain,8.74,1.3,3.67,MRI Scan,2023-07-08,Approved,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+20,Abdominal Pain,3.09,2.84,9.24,Ultrasound,2023-11-24,Denied,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+31,Abdominal Pain,4.43,8.21,7.5,Ultrasound,2023-07-20,Approved,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+18,Back Pain,3.07,2.29,7.81,MRI Scan,2023-09-11,Denied,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+28,Chest Pain,0.65,6.77,6.94,ECG,2023-11-18,Pending,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+84,Headache,1.68,4.66,6.19,CT Scan,2024-07-11,Denied,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+57,Joint Pain,6.99,6.22,8.35,Physical Therapy,2023-09-25,Pending,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+31,Cough,3.54,1.92,9.74,X-ray,2024-10-04,Pending,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+69,Fever,9.2,8.31,7.85,Blood Test,2024-02-16,Denied,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+69,Abdominal Pain,1.49,7.43,4.03,Ultrasound,2023-09-26,Approved,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+83,Back Pain,8.22,8.52,6.69,MRI Scan,2024-11-26,Denied,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+72,Joint Pain,6.14,2.18,2.26,Physical Therapy,2024-03-26,Denied,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+46,Chest Pain,7.65,1.54,7.39,ECG,2023-01-05,Approved,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+21,Fever,9.33,2.24,2.3,Blood Test,2023-01-21,Approved,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+71,Abdominal Pain,4.47,0.69,7.28,Ultrasound,2023-09-26,Denied,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+79,Headache,1.2,4.85,0.56,CT Scan,2022-12-29,Approved,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+66,Back Pain,1.71,5.51,1.38,MRI Scan,2024-10-04,Pending,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+20,Shortness of Breath,9.26,0.58,9.14,Pulmonary Function Test,2023-05-02,Approved,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+36,Fatigue,2.69,9.93,4.33,Vitamin Panel,2023-05-11,Approved,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+21,Skin Rash,2.08,5.84,2.43,Biopsy,2023-01-11,Approved,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+63,Skin Rash,7.49,8.16,1.55,Biopsy,2022-12-27,Pending,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+42,Cough,3.63,1.85,4.64,X-ray,2023-03-15,Denied,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+33,Joint Pain,9.05,6.94,0.69,Physical Therapy,2023-10-08,Approved,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+77,Abdominal Pain,8.93,9.92,6.95,Ultrasound,2024-08-25,Approved,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+50,Skin Rash,2.23,3.8,0.75,Biopsy,2023-08-04,Denied,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+32,Headache,2.81,5.57,5.0,CT Scan,2023-04-15,Approved,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+18,Fever,7.77,1.38,5.81,Blood Test,2024-08-29,Approved,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+32,Headache,1.89,5.16,3.18,CT Scan,2023-11-29,Approved,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+73,Abdominal Pain,1.0,2.36,2.96,Ultrasound,2023-01-07,Pending,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+23,Cough,5.52,6.96,9.12,X-ray,2023-10-18,Pending,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+28,Skin Rash,2.35,4.34,7.54,Biopsy,2023-10-27,Approved,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+40,Chest Pain,8.44,7.23,8.52,ECG,2023-06-24,Pending,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+40,Chest Pain,7.94,4.21,0.97,ECG,2023-10-13,Denied,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+71,Joint Pain,1.61,4.34,8.27,Physical Therapy,2023-05-28,Pending,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+38,Fatigue,7.27,5.42,8.14,Vitamin Panel,2024-06-10,Pending,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+Your claim for Fatigue is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+40,Joint Pain,9.05,2.23,2.94,Physical Therapy,2024-11-25,Approved,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+79,Cough,5.46,4.67,2.05,X-ray,2024-11-18,Pending,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+18,Fever,9.3,3.57,4.96,Blood Test,2023-09-09,Approved,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+51,Back Pain,5.2,0.76,8.48,MRI Scan,2024-10-20,Approved,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+74,Headache,6.03,8.43,9.71,CT Scan,2023-01-22,Approved,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+70,Skin Rash,6.12,8.7,4.48,Biopsy,2023-05-28,Pending,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+37,Shortness of Breath,8.84,9.23,1.15,Pulmonary Function Test,2023-10-18,Pending,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+25,Chest Pain,2.31,5.71,8.01,ECG,2023-07-18,Pending,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+62,Cough,5.55,9.05,8.57,X-ray,2023-03-10,Denied,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+41,Skin Rash,7.56,4.69,3.09,Biopsy,2024-07-02,Pending,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+64,Skin Rash,9.66,5.03,3.23,Biopsy,2024-06-06,Approved,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+18,Joint Pain,4.62,1.16,2.0,Physical Therapy,2023-07-14,Pending,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+62,Chest Pain,9.38,6.12,8.67,ECG,2023-05-28,Pending,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+37,Shortness of Breath,4.59,6.38,0.63,Pulmonary Function Test,2023-09-09,Denied,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+40,Joint Pain,1.76,9.78,4.56,Physical Therapy,2023-07-16,Denied,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+32,Shortness of Breath,9.07,0.68,1.82,Pulmonary Function Test,2024-08-29,Approved,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+68,Cough,5.15,1.27,9.36,X-ray,2023-05-29,Approved,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+19,Joint Pain,0.7,9.69,0.55,Physical Therapy,2024-09-24,Denied,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+41,Joint Pain,9.72,3.14,3.31,Physical Therapy,2024-03-06,Denied,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+25,Shortness of Breath,0.79,7.99,3.79,Pulmonary Function Test,2022-12-27,Pending,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+44,Shortness of Breath,7.54,1.02,6.07,Pulmonary Function Test,2023-05-09,Approved,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+49,Fever,2.72,7.08,5.71,Blood Test,2023-02-02,Denied,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+43,Headache,8.58,8.68,9.21,CT Scan,2023-06-06,Approved,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+80,Chest Pain,5.45,7.69,3.99,ECG,2023-01-11,Denied,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+26,Fatigue,8.78,4.67,3.22,Vitamin Panel,2023-05-05,Approved,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+29,Back Pain,5.05,7.4,5.49,MRI Scan,2024-08-04,Denied,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+43,Abdominal Pain,3.92,5.01,9.94,Ultrasound,2024-08-12,Approved,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+64,Chest Pain,2.98,9.21,7.71,ECG,2024-01-16,Approved,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+38,Joint Pain,6.17,3.45,7.34,Physical Therapy,2024-07-03,Approved,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+18,Abdominal Pain,1.62,6.71,5.12,Ultrasound,2023-12-10,Approved,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+64,Abdominal Pain,8.59,3.51,5.96,Ultrasound,2024-10-12,Approved,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+37,Chest Pain,2.15,8.24,1.78,ECG,2024-01-07,Pending,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+25,Headache,3.26,1.07,4.25,CT Scan,2024-10-23,Approved,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+30,Shortness of Breath,1.39,4.64,9.74,Pulmonary Function Test,2023-05-29,Pending,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+39,Abdominal Pain,6.73,0.59,4.77,Ultrasound,2023-06-27,Pending,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+82,Headache,3.72,3.85,4.82,CT Scan,2024-07-04,Denied,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+23,Back Pain,8.72,5.95,3.82,MRI Scan,2024-03-05,Approved,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+20,Shortness of Breath,7.31,0.93,4.26,Pulmonary Function Test,2024-05-26,Denied,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+63,Skin Rash,5.28,4.18,0.6,Biopsy,2024-10-07,Approved,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+43,Skin Rash,6.4,9.34,4.67,Biopsy,2024-09-15,Pending,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+64,Joint Pain,7.93,5.91,5.91,Physical Therapy,2024-10-07,Denied,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+52,Skin Rash,0.58,8.5,3.23,Biopsy,2024-01-20,Denied,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+75,Skin Rash,9.25,8.07,9.3,Biopsy,2023-08-02,Pending,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+80,Joint Pain,9.58,0.63,6.78,Physical Therapy,2023-02-15,Denied,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+85,Fever,3.04,0.59,1.03,Blood Test,2024-04-09,Denied,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+60,Cough,2.15,3.82,2.91,X-ray,2024-11-03,Denied,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+83,Chest Pain,2.1,1.05,2.16,ECG,2024-03-30,Denied,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+49,Chest Pain,8.84,5.52,7.63,ECG,2023-10-08,Approved,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+72,Chest Pain,1.59,7.57,4.59,ECG,2024-10-31,Approved,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+21,Shortness of Breath,5.37,6.87,8.01,Pulmonary Function Test,2023-05-25,Approved,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+57,Fever,8.21,8.41,6.32,Blood Test,2024-07-12,Pending,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+19,Back Pain,2.99,1.49,7.34,MRI Scan,2023-07-12,Approved,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+33,Abdominal Pain,1.84,6.01,7.19,Ultrasound,2023-11-20,Approved,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+19,Cough,1.87,7.39,5.69,X-ray,2023-09-07,Denied,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+51,Abdominal Pain,4.11,8.23,1.08,Ultrasound,2024-05-15,Approved,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+34,Cough,2.37,0.8,9.72,X-ray,2023-03-27,Approved,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+30,Fever,3.95,3.59,5.2,Blood Test,2023-01-12,Approved,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+57,Shortness of Breath,9.61,4.97,4.82,Pulmonary Function Test,2023-10-02,Denied,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+34,Shortness of Breath,4.59,0.69,1.75,Pulmonary Function Test,2023-11-15,Pending,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+33,Skin Rash,4.25,6.34,7.18,Biopsy,2024-07-26,Approved,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+61,Skin Rash,7.44,8.82,5.02,Biopsy,2023-10-20,Pending,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+43,Shortness of Breath,8.3,0.71,8.54,Pulmonary Function Test,2023-05-14,Denied,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+63,Chest Pain,1.23,2.43,3.28,ECG,2023-07-09,Approved,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+70,Fever,3.15,8.2,8.13,Blood Test,2023-09-26,Denied,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+71,Abdominal Pain,1.79,1.27,7.25,Ultrasound,2024-03-08,Approved,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+21,Cough,5.77,9.48,5.05,X-ray,2023-07-20,Approved,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+74,Cough,2.03,6.69,6.57,X-ray,2023-08-13,Pending,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+77,Cough,1.47,7.68,2.7,X-ray,2024-06-12,Denied,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+35,Skin Rash,9.28,4.59,8.48,Biopsy,2023-09-17,Pending,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+67,Skin Rash,9.74,6.45,4.66,Biopsy,2023-02-09,Denied,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+83,Joint Pain,0.5,4.17,8.58,Physical Therapy,2024-04-30,Approved,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+69,Chest Pain,5.1,8.23,2.3,ECG,2023-11-02,Denied,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+35,Abdominal Pain,7.09,8.23,9.97,Ultrasound,2023-10-24,Pending,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+20,Abdominal Pain,3.84,6.57,9.23,Ultrasound,2024-10-29,Denied,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+64,Shortness of Breath,9.88,6.19,8.44,Pulmonary Function Test,2024-01-04,Pending,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+32,Joint Pain,6.65,6.15,9.16,Physical Therapy,2023-06-28,Denied,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+35,Headache,1.08,0.8,5.42,CT Scan,2024-02-11,Denied,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+35,Fever,4.33,7.68,2.65,Blood Test,2023-09-28,Denied,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+54,Fever,5.89,7.29,6.84,Blood Test,2023-09-24,Denied,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+63,Chest Pain,1.61,5.4,6.9,ECG,2023-09-01,Denied,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+71,Fever,2.7,2.83,8.07,Blood Test,2023-10-17,Approved,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+75,Chest Pain,8.22,6.73,4.67,ECG,2024-01-04,Pending,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+38,Back Pain,8.74,0.76,2.0,MRI Scan,2023-01-27,Pending,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+76,Headache,2.31,4.68,1.73,CT Scan,2024-08-28,Pending,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+22,Back Pain,1.14,1.65,7.7,MRI Scan,2023-10-28,Approved,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+30,Cough,4.52,2.92,1.45,X-ray,2024-06-11,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+46,Shortness of Breath,5.11,6.54,9.01,Pulmonary Function Test,2024-03-23,Pending,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+69,Cough,3.41,5.15,9.21,X-ray,2024-05-05,Pending,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+26,Abdominal Pain,3.75,6.93,4.97,Ultrasound,2023-03-18,Denied,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+35,Headache,8.35,2.3,3.79,CT Scan,2023-03-30,Approved,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+79,Cough,1.53,1.99,2.96,X-ray,2024-01-25,Denied,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+46,Joint Pain,4.54,9.67,9.0,Physical Therapy,2024-09-07,Denied,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+39,Back Pain,9.41,5.09,9.35,MRI Scan,2024-01-11,Denied,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+73,Cough,9.16,6.33,8.33,X-ray,2024-05-21,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+63,Joint Pain,3.97,4.68,6.36,Physical Therapy,2023-10-30,Denied,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+81,Cough,4.56,7.25,9.09,X-ray,2023-05-02,Denied,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+41,Headache,6.1,7.06,5.54,CT Scan,2023-09-30,Pending,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+69,Abdominal Pain,5.95,7.58,5.96,Ultrasound,2023-01-28,Denied,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+18,Cough,4.78,4.02,6.15,X-ray,2023-04-22,Denied,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+76,Joint Pain,1.22,5.08,1.8,Physical Therapy,2024-03-13,Denied,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+22,Chest Pain,6.8,4.69,4.41,ECG,2024-04-12,Pending,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+56,Fatigue,3.6,3.49,1.24,Vitamin Panel,2024-08-17,Approved,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+69,Joint Pain,4.72,4.65,8.64,Physical Therapy,2023-12-19,Denied,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+79,Fever,9.35,0.78,6.79,Blood Test,2023-03-07,Pending,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+60,Fever,7.4,8.44,2.32,Blood Test,2024-11-22,Pending,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+84,Skin Rash,3.8,3.77,8.64,Biopsy,2024-04-22,Pending,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+64,Skin Rash,5.43,7.3,3.72,Biopsy,2023-03-16,Denied,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+57,Abdominal Pain,9.27,9.26,8.65,Ultrasound,2023-07-23,Pending,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+40,Shortness of Breath,5.33,1.48,8.47,Pulmonary Function Test,2024-09-17,Denied,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+34,Joint Pain,4.39,6.44,2.52,Physical Therapy,2024-11-12,Approved,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+80,Joint Pain,4.43,8.81,9.31,Physical Therapy,2023-12-20,Pending,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+67,Joint Pain,1.71,8.63,4.12,Physical Therapy,2024-01-19,Pending,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+53,Joint Pain,1.83,4.94,3.02,Physical Therapy,2024-06-02,Denied,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+32,Cough,1.87,2.59,1.14,X-ray,2023-11-28,Denied,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+42,Cough,2.0,3.17,1.72,X-ray,2023-11-11,Denied,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+38,Shortness of Breath,7.24,9.67,5.21,Pulmonary Function Test,2023-02-08,Denied,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+44,Back Pain,4.16,1.65,9.24,MRI Scan,2023-03-04,Denied,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+63,Abdominal Pain,3.97,8.1,2.6,Ultrasound,2023-08-31,Pending,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+38,Abdominal Pain,1.96,6.67,4.69,Ultrasound,2024-04-14,Pending,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+35,Headache,9.75,4.7,1.0,CT Scan,2024-01-13,Approved,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+36,Chest Pain,6.06,8.58,5.97,ECG,2024-07-27,Pending,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+33,Fatigue,4.44,8.64,1.14,Vitamin Panel,2023-11-03,Denied,Rejected,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+80,Headache,5.54,4.4,6.73,CT Scan,2023-03-01,Pending,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+74,Fever,2.08,3.32,0.72,Blood Test,2023-10-21,Approved,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+31,Abdominal Pain,3.36,8.7,7.66,Ultrasound,2023-04-12,Denied,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+32,Abdominal Pain,6.95,5.22,8.1,Ultrasound,2023-06-13,Denied,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+30,Shortness of Breath,0.98,8.92,9.7,Pulmonary Function Test,2023-11-05,Pending,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+38,Fever,1.97,3.61,8.05,Blood Test,2023-11-09,Denied,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+67,Joint Pain,1.53,3.99,8.64,Physical Therapy,2024-05-28,Approved,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+44,Joint Pain,9.58,8.02,1.98,Physical Therapy,2023-12-10,Denied,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+20,Chest Pain,1.91,1.5,4.12,ECG,2023-07-28,Pending,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+52,Fever,9.03,9.99,7.74,Blood Test,2023-06-24,Approved,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+59,Skin Rash,6.21,1.68,9.93,Biopsy,2022-12-31,Approved,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+62,Skin Rash,4.83,5.84,3.81,Biopsy,2024-09-09,Denied,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+26,Chest Pain,2.15,9.3,9.87,ECG,2022-12-24,Approved,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+20,Skin Rash,1.6,6.72,1.29,Biopsy,2023-10-19,Approved,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+85,Skin Rash,1.67,5.92,3.07,Biopsy,2024-02-14,Denied,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+22,Cough,1.7,5.0,7.73,X-ray,2023-12-13,Denied,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+79,Fatigue,3.9,7.63,4.87,Vitamin Panel,2024-08-15,Denied,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+69,Fever,1.46,3.33,4.34,Blood Test,2023-05-23,Pending,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+65,Joint Pain,0.73,1.21,4.56,Physical Therapy,2023-12-21,Pending,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+47,Skin Rash,8.21,4.16,5.54,Biopsy,2023-01-12,Pending,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+73,Back Pain,1.12,5.05,7.0,MRI Scan,2023-09-28,Pending,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+21,Back Pain,7.56,7.96,8.95,MRI Scan,2024-12-01,Denied,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+77,Joint Pain,9.22,2.73,9.56,Physical Therapy,2023-06-27,Approved,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+37,Back Pain,9.97,2.3,8.36,MRI Scan,2023-09-21,Denied,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+77,Shortness of Breath,1.93,5.89,1.0,Pulmonary Function Test,2023-05-29,Approved,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+80,Chest Pain,2.89,9.67,5.01,ECG,2024-10-19,Approved,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+27,Abdominal Pain,1.09,0.86,1.1,Ultrasound,2024-04-27,Denied,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+28,Back Pain,3.22,4.82,2.95,MRI Scan,2023-09-25,Pending,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+74,Cough,9.83,8.29,7.5,X-ray,2023-12-15,Pending,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+61,Cough,3.52,8.24,7.97,X-ray,2023-07-06,Approved,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+43,Back Pain,3.28,6.57,9.61,MRI Scan,2023-06-16,Approved,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+56,Cough,1.27,7.69,1.25,X-ray,2023-11-27,Denied,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+51,Headache,7.2,1.65,2.05,CT Scan,2023-07-27,Approved,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+85,Chest Pain,6.7,4.92,5.1,ECG,2023-04-08,Pending,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+19,Abdominal Pain,2.3,8.76,7.64,Ultrasound,2023-10-10,Approved,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+26,Headache,6.71,2.01,1.27,CT Scan,2024-04-16,Denied,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+84,Abdominal Pain,0.65,8.56,4.22,Ultrasound,2023-09-05,Denied,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+42,Cough,3.35,4.09,3.26,X-ray,2024-01-04,Approved,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+29,Fever,1.21,4.1,7.78,Blood Test,2024-04-29,Pending,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+51,Back Pain,0.65,7.1,9.56,MRI Scan,2024-07-12,Approved,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+46,Chest Pain,8.79,0.9,2.89,ECG,2023-05-26,Approved,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+41,Chest Pain,9.17,0.55,0.54,ECG,2023-01-19,Approved,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+64,Headache,1.24,7.26,6.1,CT Scan,2023-06-13,Denied,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+38,Chest Pain,5.3,7.79,6.71,ECG,2024-05-25,Denied,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+74,Joint Pain,6.18,5.09,3.84,Physical Therapy,2023-03-27,Pending,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+80,Shortness of Breath,7.74,7.08,7.08,Pulmonary Function Test,2023-05-30,Approved,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+20,Back Pain,2.75,7.49,8.79,MRI Scan,2023-10-17,Pending,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+27,Fatigue,2.14,5.34,7.93,Vitamin Panel,2024-01-06,Denied,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+58,Shortness of Breath,8.54,9.28,4.23,Pulmonary Function Test,2024-10-25,Pending,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+47,Fever,1.49,7.34,0.71,Blood Test,2023-05-12,Approved,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+56,Skin Rash,5.3,2.97,2.64,Biopsy,2024-10-10,Pending,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+39,Fatigue,1.08,3.03,5.48,Vitamin Panel,2023-02-13,Approved,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+21,Cough,5.54,2.54,4.9,X-ray,2023-09-26,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+77,Chest Pain,6.03,8.57,1.63,ECG,2023-03-05,Denied,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+56,Fatigue,7.0,4.04,2.78,Vitamin Panel,2023-02-23,Approved,Rejected,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+83,Cough,1.13,5.95,3.48,X-ray,2023-08-27,Approved,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+49,Chest Pain,8.17,7.2,6.23,ECG,2023-10-07,Denied,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+48,Cough,0.98,5.75,4.87,X-ray,2023-12-21,Approved,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+77,Abdominal Pain,5.07,8.67,4.47,Ultrasound,2024-03-11,Approved,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+58,Joint Pain,3.43,4.2,5.16,Physical Therapy,2024-09-09,Pending,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+28,Abdominal Pain,5.74,4.17,8.32,Ultrasound,2024-05-18,Pending,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+43,Fatigue,6.71,5.59,8.12,Vitamin Panel,2024-09-25,Pending,Rejected,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+Your claim for Fatigue is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+44,Cough,7.94,2.25,0.85,X-ray,2024-01-26,Denied,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+25,Fever,2.11,2.6,9.74,Blood Test,2023-12-07,Approved,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+69,Cough,1.6,6.44,2.12,X-ray,2024-05-28,Pending,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+36,Fever,8.02,8.48,1.96,Blood Test,2024-07-07,Pending,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+40,Skin Rash,9.6,7.36,4.23,Biopsy,2024-03-10,Pending,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+23,Shortness of Breath,9.34,3.69,5.03,Pulmonary Function Test,2024-07-26,Approved,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+32,Abdominal Pain,1.65,8.82,8.17,Ultrasound,2023-10-23,Denied,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+20,Chest Pain,1.73,5.53,1.64,ECG,2023-07-08,Pending,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+51,Skin Rash,9.56,8.35,5.33,Biopsy,2024-04-07,Approved,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+51,Headache,3.44,0.67,8.98,CT Scan,2024-12-08,Pending,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+62,Fatigue,7.25,5.6,3.7,Vitamin Panel,2023-06-07,Approved,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+77,Headache,2.35,5.95,2.53,CT Scan,2024-09-18,Denied,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+29,Abdominal Pain,7.89,1.46,3.81,Ultrasound,2023-09-05,Denied,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+73,Abdominal Pain,1.08,3.07,0.96,Ultrasound,2024-12-01,Approved,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+74,Headache,6.66,3.13,7.04,CT Scan,2023-09-30,Pending,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+51,Fever,6.87,3.7,5.32,Blood Test,2023-12-13,Denied,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+82,Joint Pain,5.95,2.87,8.25,Physical Therapy,2024-04-14,Approved,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+50,Abdominal Pain,1.9,8.83,5.36,Ultrasound,2023-02-12,Denied,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+23,Shortness of Breath,8.35,6.03,2.84,Pulmonary Function Test,2023-06-16,Approved,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+21,Headache,2.54,9.92,6.12,CT Scan,2023-05-31,Pending,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+53,Chest Pain,8.35,1.28,6.28,ECG,2024-02-23,Approved,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+51,Abdominal Pain,4.76,5.51,6.68,Ultrasound,2023-10-25,Denied,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+65,Shortness of Breath,3.73,7.99,3.57,Pulmonary Function Test,2024-03-17,Denied,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+21,Fever,7.9,1.18,4.61,Blood Test,2023-12-05,Pending,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+76,Joint Pain,5.59,3.03,6.04,Physical Therapy,2023-09-16,Pending,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+83,Fever,3.45,7.43,5.95,Blood Test,2023-10-03,Pending,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+67,Chest Pain,5.01,3.26,7.48,ECG,2023-10-16,Pending,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+49,Headache,1.05,9.21,3.22,CT Scan,2023-01-09,Approved,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+32,Skin Rash,5.62,7.13,9.38,Biopsy,2023-11-04,Approved,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+78,Abdominal Pain,4.68,2.42,2.34,Ultrasound,2024-11-10,Pending,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+40,Fever,0.87,2.01,0.66,Blood Test,2024-11-27,Pending,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+39,Headache,1.2,9.29,4.56,CT Scan,2024-01-09,Denied,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+36,Shortness of Breath,3.3,2.41,6.79,Pulmonary Function Test,2024-06-28,Pending,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+48,Joint Pain,4.85,1.54,9.29,Physical Therapy,2024-10-04,Denied,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+67,Shortness of Breath,8.6,7.75,5.69,Pulmonary Function Test,2023-08-22,Pending,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+71,Abdominal Pain,0.62,3.42,6.59,Ultrasound,2023-04-06,Approved,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+35,Chest Pain,4.7,2.2,3.02,ECG,2023-05-24,Pending,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+42,Back Pain,3.3,4.25,9.75,MRI Scan,2023-04-28,Pending,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+22,Shortness of Breath,7.04,0.77,9.68,Pulmonary Function Test,2023-11-21,Approved,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+18,Abdominal Pain,5.19,2.78,2.74,Ultrasound,2024-06-02,Denied,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+35,Fatigue,4.2,7.3,9.63,Vitamin Panel,2024-07-22,Pending,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+Your claim for Fatigue is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+28,Headache,4.67,7.23,2.93,CT Scan,2024-11-17,Approved,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+50,Shortness of Breath,7.83,6.3,9.21,Pulmonary Function Test,2023-06-17,Denied,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+81,Back Pain,8.11,5.05,5.69,MRI Scan,2024-12-10,Pending,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+49,Abdominal Pain,5.07,6.81,6.33,Ultrasound,2024-01-26,Pending,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+49,Skin Rash,1.78,7.47,1.66,Biopsy,2023-10-21,Pending,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+67,Joint Pain,8.72,4.13,4.02,Physical Therapy,2023-05-12,Pending,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+30,Back Pain,9.84,8.21,6.88,MRI Scan,2024-05-29,Approved,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+57,Chest Pain,9.79,5.02,6.75,ECG,2023-08-22,Approved,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+35,Shortness of Breath,9.92,6.63,4.03,Pulmonary Function Test,2023-02-12,Approved,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+52,Cough,2.06,3.59,3.42,X-ray,2023-06-20,Approved,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+37,Fatigue,4.54,7.43,7.07,Vitamin Panel,2023-12-13,Denied,Rejected,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+74,Fatigue,4.48,3.05,5.47,Vitamin Panel,2023-10-31,Pending,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+Your claim for Fatigue is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+64,Chest Pain,1.99,7.25,8.97,ECG,2023-01-06,Approved,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+33,Joint Pain,4.42,3.67,8.43,Physical Therapy,2023-09-25,Pending,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+78,Skin Rash,2.89,4.49,1.22,Biopsy,2024-04-22,Pending,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+60,Cough,1.91,2.17,2.58,X-ray,2023-12-17,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+59,Joint Pain,6.25,9.59,7.81,Physical Therapy,2023-04-04,Denied,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+21,Shortness of Breath,6.21,7.66,8.45,Pulmonary Function Test,2023-09-21,Denied,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+23,Abdominal Pain,3.24,3.92,3.0,Ultrasound,2023-04-18,Pending,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+64,Chest Pain,0.71,1.48,3.95,ECG,2024-08-24,Denied,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+20,Headache,3.99,1.41,2.86,CT Scan,2023-06-28,Pending,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+20,Fever,3.55,3.83,1.12,Blood Test,2023-03-22,Denied,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+47,Headache,0.79,3.26,1.39,CT Scan,2023-07-08,Denied,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+82,Shortness of Breath,4.93,1.12,6.98,Pulmonary Function Test,2024-06-08,Denied,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+44,Headache,0.51,8.41,2.22,CT Scan,2024-09-03,Denied,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+19,Chest Pain,2.78,4.07,0.58,ECG,2024-06-19,Denied,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+22,Back Pain,8.53,5.79,5.23,MRI Scan,2023-10-14,Pending,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+38,Joint Pain,8.64,9.51,1.03,Physical Therapy,2023-05-20,Denied,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+76,Joint Pain,8.08,9.7,8.97,Physical Therapy,2022-12-17,Pending,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+24,Abdominal Pain,2.06,4.42,5.66,Ultrasound,2024-08-12,Approved,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+21,Skin Rash,8.18,5.78,1.71,Biopsy,2024-05-19,Pending,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+76,Headache,4.49,0.89,8.31,CT Scan,2023-10-24,Denied,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+30,Fatigue,4.63,6.04,8.04,Vitamin Panel,2023-07-11,Approved,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+27,Fever,6.54,1.67,5.59,Blood Test,2023-10-24,Pending,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+19,Shortness of Breath,7.01,2.49,7.62,Pulmonary Function Test,2023-03-20,Approved,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+36,Skin Rash,4.26,1.48,3.72,Biopsy,2024-02-01,Approved,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+43,Abdominal Pain,8.46,8.34,1.19,Ultrasound,2024-04-06,Approved,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+52,Fever,7.53,4.45,7.48,Blood Test,2024-03-03,Approved,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+46,Cough,4.12,3.36,5.72,X-ray,2024-11-14,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+82,Fatigue,3.21,7.25,0.95,Vitamin Panel,2023-07-18,Denied,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+42,Shortness of Breath,1.51,3.51,6.3,Pulmonary Function Test,2023-04-21,Approved,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+58,Headache,1.85,5.73,7.32,CT Scan,2023-11-14,Approved,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+36,Chest Pain,8.94,7.23,2.81,ECG,2024-06-08,Denied,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+72,Joint Pain,1.96,1.07,3.45,Physical Therapy,2024-08-22,Denied,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+47,Joint Pain,8.21,5.02,1.11,Physical Therapy,2024-11-06,Denied,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+53,Abdominal Pain,2.19,0.73,4.95,Ultrasound,2024-08-11,Pending,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+83,Chest Pain,5.77,5.62,3.36,ECG,2024-01-25,Denied,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+63,Fatigue,3.72,2.89,7.27,Vitamin Panel,2024-10-01,Approved,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+37,Chest Pain,4.8,1.32,9.78,ECG,2024-07-10,Denied,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+85,Shortness of Breath,2.14,2.85,3.45,Pulmonary Function Test,2023-01-06,Pending,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+31,Skin Rash,7.43,3.0,5.41,Biopsy,2023-09-29,Denied,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+65,Chest Pain,6.25,4.04,3.34,ECG,2023-05-18,Pending,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+68,Headache,3.3,3.55,8.13,CT Scan,2024-11-18,Pending,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+62,Abdominal Pain,3.59,7.43,3.12,Ultrasound,2024-06-10,Pending,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+69,Abdominal Pain,2.72,7.96,5.21,Ultrasound,2023-02-19,Pending,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+74,Abdominal Pain,5.65,6.1,4.95,Ultrasound,2024-09-29,Approved,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+55,Fever,7.03,5.8,7.31,Blood Test,2023-05-03,Approved,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+39,Fever,6.49,3.59,2.88,Blood Test,2024-07-03,Denied,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+77,Fatigue,0.57,5.94,4.42,Vitamin Panel,2023-11-05,Approved,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+62,Headache,9.61,9.31,8.22,CT Scan,2022-12-18,Pending,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+40,Chest Pain,5.15,7.66,0.83,ECG,2024-04-21,Approved,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+43,Joint Pain,2.22,5.09,6.77,Physical Therapy,2023-01-18,Pending,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+55,Back Pain,3.79,9.71,8.25,MRI Scan,2024-01-02,Denied,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+34,Headache,0.73,2.31,6.99,CT Scan,2024-02-24,Pending,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+39,Shortness of Breath,2.26,8.18,2.97,Pulmonary Function Test,2023-08-29,Approved,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+44,Abdominal Pain,7.82,3.84,8.89,Ultrasound,2023-02-26,Denied,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+74,Fever,1.82,8.37,1.28,Blood Test,2024-02-24,Denied,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+71,Skin Rash,8.66,9.34,4.1,Biopsy,2023-09-09,Denied,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+79,Shortness of Breath,6.17,8.04,9.96,Pulmonary Function Test,2023-10-31,Pending,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+30,Cough,3.61,3.04,7.56,X-ray,2024-09-20,Denied,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+41,Fatigue,4.47,5.54,7.13,Vitamin Panel,2024-05-03,Denied,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+41,Fatigue,3.23,0.96,9.54,Vitamin Panel,2023-09-06,Denied,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+21,Abdominal Pain,7.13,5.72,4.33,Ultrasound,2023-05-01,Denied,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+79,Back Pain,3.47,3.99,2.06,MRI Scan,2024-04-30,Denied,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+84,Fatigue,6.95,4.39,9.33,Vitamin Panel,2023-04-23,Pending,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+Your claim for Fatigue is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+53,Fever,9.03,9.94,6.61,Blood Test,2024-05-23,Approved,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+52,Abdominal Pain,6.87,4.14,4.42,Ultrasound,2024-11-16,Pending,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+81,Skin Rash,4.35,2.4,2.97,Biopsy,2024-03-28,Pending,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+20,Joint Pain,0.51,7.32,8.61,Physical Therapy,2024-04-28,Pending,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+43,Cough,7.46,3.34,5.91,X-ray,2024-03-21,Denied,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+31,Fever,2.98,2.44,5.94,Blood Test,2023-09-15,Approved,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+27,Joint Pain,4.41,4.57,5.63,Physical Therapy,2023-09-18,Approved,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+26,Headache,2.28,8.8,9.63,CT Scan,2024-11-09,Denied,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+20,Skin Rash,3.16,7.6,0.96,Biopsy,2024-09-15,Pending,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+55,Fatigue,2.07,8.76,2.78,Vitamin Panel,2024-01-20,Denied,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+76,Back Pain,4.56,7.41,1.32,MRI Scan,2023-03-20,Approved,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+36,Skin Rash,0.96,0.73,3.2,Biopsy,2024-09-15,Pending,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+76,Fever,8.24,1.79,9.84,Blood Test,2023-10-12,Pending,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+20,Fever,9.2,7.3,0.84,Blood Test,2023-02-18,Approved,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+32,Shortness of Breath,7.85,2.78,9.23,Pulmonary Function Test,2023-04-05,Denied,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+51,Skin Rash,1.72,2.7,4.71,Biopsy,2023-11-13,Denied,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+38,Fever,7.37,8.6,2.22,Blood Test,2024-11-04,Denied,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+40,Skin Rash,6.89,9.18,8.27,Biopsy,2024-09-14,Pending,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+27,Cough,3.62,4.2,6.81,X-ray,2024-11-06,Pending,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+33,Fever,5.74,4.28,1.65,Blood Test,2023-03-01,Pending,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+32,Abdominal Pain,4.43,6.27,0.59,Ultrasound,2024-07-14,Denied,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+69,Headache,4.68,8.17,6.74,CT Scan,2024-05-01,Denied,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+73,Cough,6.45,3.42,5.15,X-ray,2024-05-05,Pending,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+49,Cough,0.82,0.84,3.19,X-ray,2023-05-14,Denied,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+45,Chest Pain,3.13,8.47,5.29,ECG,2023-03-21,Approved,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+68,Joint Pain,9.82,4.8,7.68,Physical Therapy,2024-02-20,Approved,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+42,Back Pain,4.32,4.33,3.23,MRI Scan,2023-08-15,Approved,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+51,Headache,3.12,0.55,0.91,CT Scan,2024-01-20,Denied,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+49,Joint Pain,3.46,4.88,4.23,Physical Therapy,2023-11-12,Denied,Rejected,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+46,Skin Rash,6.7,4.5,4.87,Biopsy,2023-04-19,Pending,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+32,Skin Rash,4.43,7.17,6.57,Biopsy,2024-03-02,Pending,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+56,Cough,4.31,7.12,4.99,X-ray,2024-10-20,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+81,Chest Pain,2.8,1.5,5.95,ECG,2024-06-29,Approved,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+40,Back Pain,2.55,1.69,2.75,MRI Scan,2024-12-09,Pending,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+19,Abdominal Pain,3.74,5.87,6.72,Ultrasound,2023-05-16,Denied,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+43,Fever,4.92,3.73,1.04,Blood Test,2024-09-04,Pending,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+38,Fatigue,9.53,4.83,0.99,Vitamin Panel,2024-03-18,Denied,Rejected,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+65,Chest Pain,6.03,0.8,7.19,ECG,2023-07-21,Approved,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+62,Cough,6.99,4.91,4.01,X-ray,2024-09-09,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+22,Fatigue,9.71,2.57,7.99,Vitamin Panel,2024-07-31,Denied,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+39,Cough,8.53,8.16,8.51,X-ray,2024-05-06,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+53,Fever,7.5,8.91,3.25,Blood Test,2023-08-03,Denied,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+28,Cough,3.49,2.31,2.87,X-ray,2023-11-25,Denied,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+62,Back Pain,1.04,1.04,8.15,MRI Scan,2024-06-20,Approved,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+24,Fatigue,9.05,8.7,4.38,Vitamin Panel,2023-01-21,Denied,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+69,Shortness of Breath,3.65,5.03,3.92,Pulmonary Function Test,2024-11-05,Pending,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+78,Abdominal Pain,7.77,5.03,9.81,Ultrasound,2024-09-21,Approved,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+81,Fever,1.31,4.25,5.62,Blood Test,2023-05-11,Approved,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+37,Headache,5.31,9.44,3.86,CT Scan,2024-05-21,Denied,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+32,Fever,6.57,0.56,0.59,Blood Test,2023-04-29,Denied,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+25,Headache,2.76,0.95,8.94,CT Scan,2023-10-17,Denied,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+73,Shortness of Breath,4.96,9.82,9.57,Pulmonary Function Test,2024-10-03,Denied,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+54,Shortness of Breath,6.47,8.16,2.15,Pulmonary Function Test,2023-12-01,Denied,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+65,Back Pain,3.06,6.45,0.77,MRI Scan,2023-12-15,Pending,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+60,Skin Rash,4.87,7.52,4.2,Biopsy,2024-04-18,Approved,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+55,Fever,3.75,9.08,7.74,Blood Test,2023-10-04,Pending,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+69,Fever,7.7,6.37,7.39,Blood Test,2024-04-18,Denied,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+63,Shortness of Breath,1.97,2.12,0.72,Pulmonary Function Test,2024-05-05,Pending,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+64,Chest Pain,7.19,9.88,9.51,ECG,2024-08-28,Denied,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+81,Cough,7.68,1.51,9.3,X-ray,2024-12-06,Approved,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+24,Fever,4.26,9.59,0.55,Blood Test,2023-10-15,Pending,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+65,Joint Pain,1.29,5.98,5.79,Physical Therapy,2023-08-17,Denied,Paid,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Joint Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+24,Headache,1.87,4.14,0.6,CT Scan,2023-06-23,Denied,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+65,Fever,2.79,2.79,8.48,Blood Test,2024-06-19,Denied,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+69,Chest Pain,3.38,1.34,3.41,ECG,2022-12-30,Denied,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+25,Abdominal Pain,3.41,9.33,4.61,Ultrasound,2023-06-05,Approved,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+52,Skin Rash,4.56,3.85,5.66,Biopsy,2023-09-29,Denied,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+33,Shortness of Breath,4.38,3.98,6.46,Pulmonary Function Test,2024-07-14,Pending,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+79,Skin Rash,9.46,8.25,4.02,Biopsy,2024-11-30,Approved,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+44,Fatigue,0.57,7.07,4.12,Vitamin Panel,2023-10-06,Pending,Rejected,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+Your claim for Fatigue is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+64,Back Pain,3.58,4.47,8.03,MRI Scan,2024-11-02,Denied,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+19,Back Pain,3.01,8.58,6.33,MRI Scan,2023-02-26,Denied,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+70,Cough,2.9,5.76,9.28,X-ray,2023-10-24,Pending,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+48,Fever,1.96,1.08,7.77,Blood Test,2024-11-22,Approved,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+38,Shortness of Breath,0.99,2.77,4.57,Pulmonary Function Test,2023-01-24,Pending,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+80,Chest Pain,5.43,2.33,3.68,ECG,2023-10-09,Denied,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+50,Joint Pain,5.4,3.53,9.41,Physical Therapy,2023-10-12,Approved,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Joint Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+80,Chest Pain,9.45,3.93,2.09,ECG,2024-07-11,Denied,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+37,Back Pain,3.37,3.61,9.23,MRI Scan,2023-04-12,Pending,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+33,Headache,3.32,6.18,4.47,CT Scan,2023-03-15,Approved,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+33,Cough,7.63,8.0,6.54,X-ray,2024-09-08,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+57,Back Pain,1.93,2.62,4.04,MRI Scan,2024-06-21,Denied,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+42,Fever,7.91,5.21,1.99,Blood Test,2024-06-28,Denied,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+27,Fever,2.18,3.79,9.35,Blood Test,2023-12-25,Denied,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+81,Skin Rash,4.17,9.46,4.49,Biopsy,2023-04-26,Denied,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+43,Fatigue,6.83,4.54,5.81,Vitamin Panel,2024-07-25,Approved,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+22,Skin Rash,5.27,1.91,4.92,Biopsy,2024-01-10,Pending,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+Your claim for Skin Rash is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+59,Cough,6.02,1.73,1.26,X-ray,2023-05-31,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+22,Fever,8.82,7.48,7.02,Blood Test,2023-07-19,Denied,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+36,Back Pain,0.71,1.73,1.07,MRI Scan,2023-03-19,Pending,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+65,Fever,4.6,4.11,2.76,Blood Test,2023-03-06,Pending,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+74,Fever,2.36,2.63,3.71,Blood Test,2024-09-20,Denied,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+32,Cough,1.87,8.3,0.63,X-ray,2023-10-19,Denied,Paid,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+45,Cough,6.14,0.83,4.81,X-ray,2023-05-28,Approved,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+20,Chest Pain,6.2,3.95,3.3,ECG,2023-10-15,Pending,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+76,Shortness of Breath,7.07,0.57,9.84,Pulmonary Function Test,2024-01-08,Approved,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+38,Shortness of Breath,3.79,4.86,2.15,Pulmonary Function Test,2023-08-07,Approved,Partial Payment,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+We are pleased to inform you that your claim for Shortness of Breath has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+66,Skin Rash,5.99,9.59,2.01,Biopsy,2024-01-29,Approved,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+31,Headache,5.41,7.34,2.0,CT Scan,2023-06-09,Denied,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+80,Skin Rash,1.41,6.44,6.11,Biopsy,2022-12-25,Approved,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+44,Back Pain,6.98,8.78,2.89,MRI Scan,2024-10-27,Pending,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+58,Cough,8.67,2.36,3.24,X-ray,2023-02-01,Approved,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+63,Headache,4.72,8.38,1.52,CT Scan,2024-11-17,Pending,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+70,Back Pain,6.87,7.95,3.86,MRI Scan,2023-02-13,Approved,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+48,Headache,2.84,4.24,9.75,CT Scan,2023-07-10,Denied,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+31,Fever,7.94,3.73,1.8,Blood Test,2023-04-06,Approved,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+56,Skin Rash,1.45,6.58,3.23,Biopsy,2023-04-18,Approved,Paid,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+31,Headache,5.99,3.39,3.81,CT Scan,2024-09-30,Approved,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+31,Headache,1.3,6.3,2.93,CT Scan,2023-07-26,Approved,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+We are pleased to inform you that your claim for Headache has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+37,Headache,4.72,5.92,4.76,CT Scan,2024-11-09,Pending,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+20,Fever,9.24,0.78,2.19,Blood Test,2022-12-31,Denied,Rejected,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+23,Fatigue,6.33,5.51,8.14,Vitamin Panel,2024-06-24,Pending,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+Your claim for Fatigue is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+46,Cough,6.66,7.6,4.92,X-ray,2023-12-13,Approved,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+We are pleased to inform you that your claim for Cough has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+52,Cough,2.99,3.63,6.47,X-ray,2023-09-23,Pending,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+47,Fever,4.0,5.06,9.45,Blood Test,2023-06-11,Approved,Paid,"Subject: Claim Determination for Fever
+Dear Patient,
+
+We are pleased to inform you that your claim for Fever has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+72,Chest Pain,2.58,8.07,6.55,ECG,2024-05-28,Pending,Rejected,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+Your claim for Chest Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+23,Abdominal Pain,5.41,0.77,4.36,Ultrasound,2023-05-23,Pending,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+32,Back Pain,2.47,7.56,5.44,MRI Scan,2024-12-02,Approved,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+54,Shortness of Breath,6.54,10.0,2.83,Pulmonary Function Test,2023-09-14,Pending,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+35,Abdominal Pain,0.76,6.72,6.85,Ultrasound,2024-08-10,Approved,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+21,Cough,8.18,6.54,3.57,X-ray,2023-11-09,Denied,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Cough has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+47,Fatigue,6.62,7.38,9.59,Vitamin Panel,2023-03-06,Approved,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+53,Abdominal Pain,4.85,6.38,7.84,Ultrasound,2024-08-27,Denied,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+74,Fever,3.03,1.79,4.41,Blood Test,2024-01-07,Denied,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fever has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+73,Headache,1.79,6.99,7.6,CT Scan,2024-07-18,Denied,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+31,Abdominal Pain,3.79,3.49,5.5,Ultrasound,2023-10-30,Denied,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+59,Headache,4.88,2.27,1.27,CT Scan,2023-09-26,Denied,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+80,Abdominal Pain,6.49,0.79,3.72,Ultrasound,2023-06-30,Approved,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+61,Abdominal Pain,9.04,6.6,2.8,Ultrasound,2023-04-10,Denied,Paid,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Abdominal Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+59,Headache,7.25,1.27,9.64,CT Scan,2023-02-19,Denied,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+42,Headache,6.87,7.77,4.14,CT Scan,2024-07-24,Pending,Paid,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+53,Back Pain,8.12,0.89,8.31,MRI Scan,2023-03-03,Denied,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+36,Chest Pain,9.63,5.26,6.76,ECG,2024-02-26,Approved,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+71,Headache,5.48,7.78,4.43,CT Scan,2024-10-24,Denied,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+83,Headache,2.57,5.94,8.43,CT Scan,2023-06-18,Pending,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+42,Abdominal Pain,3.28,4.62,3.17,Ultrasound,2024-02-06,Approved,Partial Payment,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Abdominal Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+53,Fatigue,0.53,9.5,9.47,Vitamin Panel,2023-10-21,Approved,Rejected,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+68,Fever,2.55,4.12,7.94,Blood Test,2023-04-06,Pending,Partial Payment,"Subject: Claim Determination for Fever
+Dear Patient,
+
+Your claim for Fever is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+26,Abdominal Pain,7.49,9.93,6.19,Ultrasound,2023-03-10,Pending,Rejected,"Subject: Claim Determination for Abdominal Pain
+Dear Patient,
+
+Your claim for Abdominal Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+78,Back Pain,9.56,3.6,8.22,MRI Scan,2023-01-15,Denied,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Back Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+85,Cough,1.77,2.17,3.17,X-ray,2023-03-10,Pending,Rejected,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+25,Chest Pain,2.47,5.54,4.45,ECG,2023-01-03,Denied,Paid,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+65,Chest Pain,3.46,2.6,5.13,ECG,2023-11-27,Approved,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+69,Shortness of Breath,7.18,9.0,1.14,Pulmonary Function Test,2024-01-29,Denied,Paid,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Shortness of Breath has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+33,Fatigue,7.08,1.63,9.74,Vitamin Panel,2024-05-21,Denied,Partial Payment,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Fatigue has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+60,Joint Pain,9.19,3.49,7.32,Physical Therapy,2023-10-23,Pending,Partial Payment,"Subject: Claim Determination for Joint Pain
+Dear Patient,
+
+Your claim for Joint Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+22,Back Pain,7.35,0.97,5.54,MRI Scan,2024-11-19,Approved,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+35,Fatigue,1.85,2.57,3.81,Vitamin Panel,2023-05-08,Approved,Rejected,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+80,Skin Rash,8.13,0.53,8.66,Biopsy,2023-04-10,Denied,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Skin Rash has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+81,Headache,7.98,2.66,6.73,CT Scan,2023-07-17,Denied,Partial Payment,"Subject: Claim Determination for Headache
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Headache has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+32,Back Pain,9.49,4.3,3.15,MRI Scan,2023-03-21,Pending,Paid,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+27,Shortness of Breath,3.21,2.56,1.61,Pulmonary Function Test,2024-11-23,Pending,Rejected,"Subject: Claim Determination for Shortness of Breath
+Dear Patient,
+
+Your claim for Shortness of Breath is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+43,Cough,3.61,8.98,1.54,X-ray,2023-11-02,Pending,Partial Payment,"Subject: Claim Determination for Cough
+Dear Patient,
+
+Your claim for Cough is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+47,Headache,1.31,7.88,4.76,CT Scan,2024-10-23,Pending,Rejected,"Subject: Claim Determination for Headache
+Dear Patient,
+
+Your claim for Headache is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+48,Skin Rash,8.11,8.57,6.84,Biopsy,2024-02-24,Approved,Partial Payment,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+46,Chest Pain,8.05,4.51,7.34,ECG,2023-07-25,Denied,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+After reviewing your claim, we regret to inform you that your claim for Chest Pain has been denied. The decision is based on the terms and conditions of your policy. If you have questions or would like to appeal this decision, please contact us.
+
+Sincerely,
+Claims Department"
+21,Fatigue,3.86,4.46,4.37,Vitamin Panel,2024-05-21,Approved,Paid,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+We are pleased to inform you that your claim for Fatigue has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+66,Chest Pain,8.24,6.39,7.6,ECG,2023-09-17,Approved,Partial Payment,"Subject: Claim Determination for Chest Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Chest Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+53,Back Pain,9.56,4.15,3.02,MRI Scan,2024-04-14,Pending,Rejected,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+Your claim for Back Pain is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+51,Fatigue,3.75,3.77,6.44,Vitamin Panel,2024-02-18,Pending,Rejected,"Subject: Claim Determination for Fatigue
+Dear Patient,
+
+Your claim for Fatigue is currently under review. We are working diligently to process your claim and will provide an update as soon as possible. If you have any questions, please reach out to our office.
+
+Sincerely,
+Claims Department"
+28,Back Pain,9.06,3.25,7.62,MRI Scan,2024-02-15,Approved,Partial Payment,"Subject: Claim Determination for Back Pain
+Dear Patient,
+
+We are pleased to inform you that your claim for Back Pain has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
+81,Skin Rash,7.65,6.26,8.6,Biopsy,2023-04-20,Approved,Rejected,"Subject: Claim Determination for Skin Rash
+Dear Patient,
+
+We are pleased to inform you that your claim for Skin Rash has been approved. This decision is based on your policy coverage and our review of your submitted documentation. If you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+Claims Department"
